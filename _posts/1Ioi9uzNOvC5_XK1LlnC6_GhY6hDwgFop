@@ -1,0 +1,55 @@
+---
+typora-copy-images-to: ../assets/img
+typora-root-url: ../
+layout: post
+categories:
+conToc: true
+title: Practica Docker
+---
+
+# Primer contenedor en Docker
+
+
+
+## Primeros pasos
+
+Comprobamos que esta instalado Docker
+
+```bash
+docker ps
+```
+![19cEqN7EFo4Q7Hdgg4ukdrH8sloaD6FMU](/assets/img/19cEqN7EFo4Q7Hdgg4ukdrH8sloaD6FMU)
+
+
+
+Construimos el chapter2 con ./build.sh
+
+```bash
+./build.sh
+```
+![1J0MkHqzlIyXoKPIEv9tbzQmmz671V_7-](/assets/img/1J0MkHqzlIyXoKPIEv9tbzQmmz671V_7-)
+
+
+
+Lo editamos según la imagen
+
+```bash
+nano debug.sh
+```
+![1TLGbZfA9TjSgQxrJPo51Fr_xf2P6gTPl](/assets/img/1TLGbZfA9TjSgQxrJPo51Fr_xf2P6gTPl)
+
+
+
+Ejecutamos el debug.sh
+
+```bash
+./debug.sh
+```
+![1EFZDyKuOPzCSD9dZwyi4-sgBvlSGYTTc](/assets/img/1EFZDyKuOPzCSD9dZwyi4-sgBvlSGYTTc)
+
+
+
+Volvemos a ejecutar docker ps y comprobamos que ya se visualiza el container, siempre y cuando no cancelemos el debug.sh
+
+![1k-8dXtKZWGi9_8WVrEQtpszv4g_AZZfT](/assets/img/1k-8dXtKZWGi9_8WVrEQtpszv4g_AZZfT)
+
