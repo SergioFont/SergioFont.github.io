@@ -48,7 +48,7 @@ volumes:
 ```
 Debería de quedar tal que así:
 
-![image-20211229102743898](/home/sergio/snap/typora/46/.config/Typora/typora-user-images/image-20211229102743898.png)
+![image-20211229102743898](/assets/img/image-20211229102743898.png)
 
 Ejecutamos el comando docker compose para iniciar el .yml
 
