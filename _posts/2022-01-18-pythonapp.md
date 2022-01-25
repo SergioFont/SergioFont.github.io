@@ -244,12 +244,12 @@ docker-compose up -d
 
 Comprobación funcionamiento conmigo mismo.
 
-![image-20220125160139536](../assets/img/image-20220125160139536.png)
+![image-20220125160139536](/assets/img/image-20220125160139536.png)
 
 Comprobación funcionamiento con alguien aleatorio.
 
-![image-20220125160253551](../assets/img/image-20220125160253551.png)
+![image-20220125160253551](/assets/img/image-20220125160253551.png)
 
 Comprobación funcionamiento con un compañero.
 
-![image-20220125160406864](../assets/img/image-20220125160406864.png)
+![image-20220125160406864](/assets/img/image-20220125160406864.png)
