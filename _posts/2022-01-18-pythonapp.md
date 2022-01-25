@@ -35,20 +35,6 @@ if __name__ == '__main__':
 ```
 Hacemos un curl localhost:5000
 
-![image-20220118172723798](/assets/img/image-20220118172723798.png)
-
-
-
-Realizamos las siguientes órdenes consecutivamente:
-
-![image-20220118172544045](/assets/img/image-20220118172544045.png)
-
-A continuación crearemos una nueva rama llamada identicons:
-
-![image-20220118173421507](/assets/img/image-20220118173421507.png)
-
-
-
 Reemplazaremos el contenido del identidock por el siguiente:
 
 ```bash
@@ -256,4 +242,14 @@ docker-compose build
 docker-compose up -d
 ```
 
-Imagen
+Comprobación funcionamiento conmigo mismo.
+
+![image-20220125160139536](../.config/Typora/typora-user-images/image-20220125160139536.png)
+
+Comprobación funcionamiento con alguien aleatorio.
+
+![image-20220125160253551](../.config/Typora/typora-user-images/image-20220125160253551.png)
+
+Comprobación funcionamiento con un compañero.
+
+![image-20220125160406864](../.config/Typora/typora-user-images/image-20220125160406864.png)
