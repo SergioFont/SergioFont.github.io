@@ -4,10 +4,10 @@ typora-root-url: ../
 layout: post
 categories:
 conToc: true
-title: Practica Django
+title: Jenkinsfile
 ---
 
-# Instalación Django
+# Creación Jenkinsfile
 
 
 
